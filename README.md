@@ -7,7 +7,7 @@
 **Getting Started:** Initial setup of the Next.js project, including project structure and basic configuration.<br>
 **CSS Styling:** Applying styles using CSS Modules and styled-components.<br>
 **Optimizing Fonts and Images:** Techniques for optimizing font loading and image handling in Next.js.<br>
-**Creating Layouts and Pages:** Structuring the application with reusable layouts and pages.</p>
+**Creating Layouts and Pages:** Structuring the application with reusable layouts and pages.<br>
 **Navigating Between Pages:** Implementing client-side navigation using Next.js Link component and router.<br>
 **Setting Up Your Database:** Integrating a database with your Next.js application.<br>
 **Fetching Data:** Implementing data fetching methods including SSR, SSG, and ISR.<br>
