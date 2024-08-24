@@ -4,7 +4,7 @@
 
 ### Chapters
 
-<p>**Getting Started:** Initial setup of the Next.js project, including project structure and basic configuration.<br>
+**Getting Started:** Initial setup of the Next.js project, including project structure and basic configuration.<br>
 
 **CSS Styling:** Applying styles using CSS Modules and styled-components.<br>
 
@@ -34,12 +34,12 @@
 
 **Adding Authentication:** Integrating user authentication and session management.<br>
 
-**Adding Metadata:** Properly adding and managing metadata for SEO and social media sharing.</p>
-
+**Adding Metadata:** Properly adding and managing metadata for SEO and social media sharing.<br>
+<br>
 
 ### Features
 
-<p>**Dynamic Routing:** Leverage Next.js's powerful routing capabilities.<br>
+**Dynamic Routing:** Leverage Next.js's powerful routing capabilities.<br>
 
 **Data Fetching:** Utilize SSR, SSG, and ISR for different data fetching scenarios.<br>
 
@@ -51,12 +51,12 @@
 
 **Accessibility:** Ensure the application is accessible to all users.<br>
 
-**Optimisation:** Optimise performance through image, font loading, and partial prerendering.</p>
-
+**Optimisation:** Optimise performance through image, font loading, and partial prerendering.<br>
+<br>
 
 ### Technologies Used
 
-<p>**Next.js:** Core framework for the project.<br>
+**Next.js:** Core framework for the project.<br>
 
 **React:** Frontend library for building UI components.<br>
 
@@ -64,4 +64,5 @@
 
 **CSS Modules/Styled Components:** For styling the application.<br>
 
-**Vercel:** Deployment platform for hosting the application.</p>
+**Vercel:** Deployment platform for hosting the application.<br>
+<br>
